@@ -4,5 +4,6 @@
 </head>
 <body>
 <?php echo '<p>Hello World</p>'; ?>
+<img src = "google.jpg">
 </body>
 </html>
